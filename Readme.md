@@ -4,7 +4,7 @@ This project implements a road segmentation model using MobileNetV2 for efficien
 
 ## Data Preparation
 
-The dataset consists of road scene images and their corresponding ground truth masks that are binarized to distinguish road regions from the background. You need to set your desired file paths for the images and binary masks in the notebooks. The data should be accurately mapped to ensure each image corresponds to its mask.
+The dataset includes road scene images with corresponding binarized masks that highlight road areas. You set the file paths in the notebooks so each image is correctly paired with its mask for training and evaluation.
 
 The dataset, including training images, testing images, and ground truth masks, can be accessed from the following link:
 
