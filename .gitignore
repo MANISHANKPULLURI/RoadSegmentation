@@ -1,0 +1,10 @@
+binarized_masks/
+final_predicted_masks/
+gt_300/
+datasets/
+predicted_masks/
+test_300/
+final_binarized_dataset_csv/
+final_dataset/
+train.csv/
+val.csv/
